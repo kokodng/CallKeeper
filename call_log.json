@@ -1,0 +1,32 @@
+{
+  "phone_call_log": [
+    {
+      "end": "Feb 1, 2018 1:18:45 AM",
+      "number": "6505551212",
+      "start": "Feb 1, 2018 1:18:45 AM",
+      "type": "missed",
+      "id": 0
+    },
+    {
+      "end": "Feb 1, 2018 1:20:28 AM",
+      "number": "6505551212",
+      "start": "Feb 1, 2018 1:20:02 AM",
+      "type": "incoming",
+      "id": 1
+    },
+    {
+      "end": "Feb 1, 2018 1:23:12 AM",
+      "number": "6505551212",
+      "start": "Feb 1, 2018 1:22:49 AM",
+      "type": "outgoing",
+      "id": 2
+    },
+    {
+      "end": "Feb 1, 2018 11:47:10 AM",
+      "number": "6505551212",
+      "start": "Feb 1, 2018 11:47:10 AM",
+      "type": "missed",
+      "id": 3
+    }
+  ]
+}
